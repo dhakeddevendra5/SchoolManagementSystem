@@ -115,7 +115,7 @@ Access frontend at <code>http://localhost:3000</code>, backend at <code>http://l
 <p><strong>Devendra Dhaked</strong></p>
 <ul>
   <li>Email: <a href="mailto:dhakeddevendra5@gmail.com">dhakeddevendra5@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/devendra-dhaked-98b14624a/" target="_blank">devendra-dhaked-98b14624a</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/dhakeddevendra5/" target="_blank">devendra-dhaked</a></li>
 </ul>
 
 <hr>
